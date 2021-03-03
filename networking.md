@@ -15,3 +15,10 @@ Network Seperation / Network Segmentation
 
 VLAN
 
+Network Layer Route 
+
+network-based intrusion detection system (NIDS)
+
+firewall
+
+Network Address Translation (NAT)
